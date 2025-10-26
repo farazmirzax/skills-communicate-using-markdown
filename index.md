@@ -10,3 +10,5 @@ I’m learning Markdown through GitHub Skills!
 
 #### Smaller Header Example
 This is how headers get progressively smaller.
+
+![A cool Octocat image](https://octodex.github.com/images/yaktocat.png)
