@@ -18,3 +18,7 @@ This is how headers get progressively smaller.
 ```javascript
 const message = "Hello, Markdown!";
 console.log(message);
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
